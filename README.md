@@ -5,8 +5,8 @@ Ce document a pour but d'expliquer les fonctionnalités que nous avons implémen
 
 
 ## Auteurs
-- Amazigh ALLOUN n°étu : 12007813
-- Dieunel MARCELIN n°étu : 12207041
+- Amazigh ALLOUN n°étu : ********
+- Dieunel MARCELIN n°étu : ********
 
 ## Gestion des collisions 
 ***version 1***
