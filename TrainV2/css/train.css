@@ -1,0 +1,84 @@
+/************************************************************/
+/**
+ * Université Sorbonne Paris Nord, Programmation Web
+ * Auteurs                       : Étienne André
+ * Création                      : 2023/12/11
+ * Dernière modification         : 2023/12/11
+ */
+/************************************************************/
+
+h1 {
+	font-family	: monospace;
+	font-size	: 3em;
+	position: fixed;
+	margin: 0em;
+	left: 0em;
+	top: 0em;
+	height: 10%;
+	width: 100%;
+	color: rgb(115, 115, 214);
+	text-align: center;
+	height: 10%;
+	background-color: rgb(102, 194, 102);
+	bottom: 0em;
+}
+
+button{
+	font-family: monospace;
+	width: 60px;
+}
+
+#boutons {
+	position: fixed;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	top: 12%;
+	left: 80%;
+}
+
+
+  
+img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+#bouton_train_2 {
+	height: 50px;
+}
+
+#bouton_train_4 {
+	height: 50px;
+	width: 80px;
+}
+
+#bouton_train_6 {
+	height: 50px;
+	width: 100px;
+}
+
+
+button:hover{
+	background-color: rgb(62, 178, 236);
+}
+
+nav{
+	top: 10%;
+	width: 10%;
+	margin: 0em;
+	/*width: 10%;*/
+	position: fixed;
+	left: 0em;
+	background-color: grey;
+}
+
+main{
+	top: 10%;
+	left: 10%;
+	/*overflow: auto;*/
+	position: absolute;
+	right: 0em;
+	width: 90%;
+	margin: 0em;
+	
+}
