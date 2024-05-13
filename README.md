@@ -2,6 +2,7 @@
 # Simulateur de trains
 
 Ce document a pour but d'expliquer les fonctionnalités que nous avons implémenté lors de la seconde partie.
+Ce projet a été réalisé dans le cadre de notre cours de programmation web en 3e année de Licence informatique a l'Université Sorbonne Paris Nord. Le responsable du cours est le professeur Etienne André.
 
 
 ## Auteurs
